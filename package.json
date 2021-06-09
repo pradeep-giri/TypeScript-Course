@@ -1,0 +1,22 @@
+{
+  "name": "typescript-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradeep-giri/TypeScript-Course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pradeep-giri/TypeScript-Course/issues"
+  },
+  "homepage": "https://github.com/pradeep-giri/TypeScript-Course#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
